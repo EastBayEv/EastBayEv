@@ -2,13 +2,8 @@
 
 **I am a data scientist at [Stanford University Libraries](https://library.stanford.edu)** 📚
 
-🧮 I mostly program in: 
-- R, Python 
-- Bash and Git
+🧮 I mostly program in:  R, Python, Bash and Git
 
-🔭 Currently working on:
-- Scoping reviews of conflict literature, and health, agriculture, and war 
+🔭 Currently working on:  Scoping reviews of conflict literature; health, agriculture, and war 
 
-🌱 I can help with:
-- Programming basics and data wrangling, visualization, and analysis
-- Machine and deep learning and natural language processing and computational text analysis 
+🌱 I can help with:  Programming basics and data wrangling, visualization, and analysis; machine and deep learning and natural language processing and computational text analysis 
