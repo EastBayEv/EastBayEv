@@ -3,10 +3,8 @@
 **I am a data scientist at [Stanford University Libraries](https://library.stanford.edu)** 📚
 
 🧮 I mostly program in: 
-- R 
-- Python 🐍
-- Bash 💲
-- Git/GitHub :octocat:
+- R, Python 🐍
+- Bash 💲 and Git/GitHub :octocat:
 
 🔭 Currently working on:
 - Scoping reviews of conflict literature 💣
