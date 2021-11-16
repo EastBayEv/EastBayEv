@@ -1,4 +1,4 @@
-### Hi there! 🎸
+### Hi there! 🎸:dog:
 
 I am a data scientist at [Stanford University Libraries](https://library.stanford.edu) 📚
 
