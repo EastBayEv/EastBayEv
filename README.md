@@ -7,11 +7,8 @@
 - Bash 💲 and Git/GitHub :octocat:
 
 🔭 Currently working on:
-- Scoping reviews of conflict literature 💣
-- Health, agriculture, and war ⚕️:ear_of_rice:
+- Scoping reviews of conflict literature 💣 and health, agriculture, and war ⚕️:ear_of_rice:
 
 🌱 I can help with:
-- Programming basics 🔰
-- Data wrangling, visualization, and analysis 📈
-- Machine and deep learning 🤖 🧠
-- Natural language processing and computational text analysis 💬 :open_book:
+- Programming basics 🔰 and data wrangling, visualization, and analysis 📈
+- Machine and deep learning 🤖 🧠 and natural language processing and computational text analysis 💬 :open_book:
