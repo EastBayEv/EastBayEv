@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there! I'm Evan 🎸
 
-<!--
-**EastBayEv/EastBayEv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a formally trained bioarchaeologist :skull: who works as the Head of Software and Services for Data Science at [Stanford University Libraries](https://library.stanford.edu) 📚
 
-Here are some ideas to get you started:
+🧮 I mostly program in R, Python, Bash, Git/GitHub :octocat:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Currently working on:
+- Scoping reviews of conflict and literature
+- Health, agriculture, and war
+
+🌱 I can currently help with:
+- Programming basics
+- Data wrangling, visualization, and analysis 📈
+- 🤖 Machine and deep learning 🧠
+- Natural language processing and computational text analysis 💬
