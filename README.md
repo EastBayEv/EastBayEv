@@ -1,6 +1,6 @@
-### Hi there! I'm Evan 🎸
+### Hi there! 🎸
 
-I am a formally trained bioarchaeologist :skull: who works as the Head of Software and Services for Data Science at  
+I am Evan, a formally trained bioarchaeologist :skull: who works as the Head of Software and Services for Data Science at  
 [Stanford University Libraries](https://library.stanford.edu) 📚
 
 🧮 I mostly program in: 
