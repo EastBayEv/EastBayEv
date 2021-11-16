@@ -13,7 +13,7 @@ I am a formally trained bioarchaeologist :skull: who works as the Head of Softwa
 - Scoping reviews of conflict literature 💣
 - Health, agriculture, and war ⚕️:ear_of_rice:
 
-🌱 I can currently help with:
+🌱 I can help with:
 - Programming basics 🔰
 - Data wrangling, visualization, and analysis 📈
 - Machine and deep learning 🤖 🧠
