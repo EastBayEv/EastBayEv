@@ -1,4 +1,4 @@
-### Hi there! 🎸:dog::martial_arts_uniform::joystick::flower_playing_cards:
+### Hi there! 🎸:dog:
 
 **I am a data scientist at [Stanford University Libraries](https://library.stanford.edu)** 📚
 
