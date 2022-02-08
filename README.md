@@ -1,4 +1,4 @@
-### 🎸:dog: Hello! 
+### 🎸:dog: Hello, I'm Evan! 
 
 **I am a data scientist at [Stanford Libraries](https://library.stanford.edu)** 📚
 
