@@ -9,4 +9,4 @@
 I can help with:     
 📈 programming basics and data wrangling, visualization, and analysis      
 📖 💬 computational text analysis and natural language processing  
-:robot: :brain: machine and deep learning 
+:robot: :brain: :octocat: machine and deep learning 
