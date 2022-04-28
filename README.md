@@ -4,7 +4,7 @@
 
 🧮 I mostly program in:  R, Python, Bash and Git
 
-🔭 Currently working on:  Scoping reviews of conflict literature; health, agriculture, and war 
+🔭 Currently working on:  Environmental attitudes, post-surgical complications in young diabetics, depression, and health, agriculture, and armed conflict. Always teaching and learning data science!
 
 I can help with:     
 📈 programming basics and data wrangling, visualization, and analysis      
