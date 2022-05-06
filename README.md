@@ -3,10 +3,15 @@
 **I am a data scientist at [Stanford Libraries](https://library.stanford.edu)** 📚
 
 Currently working on:  
+
 * Attitudes about envronmental catastrophes in the Mascarenes
-* Machine learning for better understanding perioperative depression
+* Machine learning to better understand perioperative depression
 * Postoperative complications in young female diabetics
 * Health, agriculture, and armed conflict in Syria and Yemen
+* Faculty and peer instructor development in STEM programs in higher education
+
+
+I can help with:
 
 * R/RStudio/Tidyverse, Python, Bash, Git/GitHub, Microsoft Excel, Qualtrics, Google Suite
 * Data preparation: text, quantitative, machine learning, data imputation
