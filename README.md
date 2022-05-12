@@ -18,9 +18,10 @@ I can help with:
 * Data visualization: ggplot2, ggmap, matplotlib, seaborn, plotly, altair, geopandas, gnuplot
 * Machine learning: caret, SuperLearner, H2O, scikit-learn, tensorflow, pytorch, keras, regression (lm, glm, penalized, step, spline, hinge), classification, tree-based methods, confusion matrix derivations, cross-validation
 * Deep learning: quantitative, text, image, MLP, GAN, RNN, CNN, LSTM, transfer learning
-* Text mining, classification, word embeddings, topic modeling (assisted/anchored/weighted/neural), sentiment analysis, semantic structure/analysis,
+* Text: mining, classification, word embeddings, topic modeling (assisted/anchored/weighted/neural), sentiment analysis, semantic structure/analysis
 * Unsupervised methods/dimension reduction: PCA, MCA, CCA, tSNE, UMAP, clustering
 * API access, social network data, webscraping
 * Categorical data analysis
 * Time series, forecasting
 * Survey design and analysis
+* Bloomberg Terminal
