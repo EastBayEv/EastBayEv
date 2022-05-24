@@ -13,7 +13,7 @@ Currently working on:
 
 I can help with:
 
-* R/RStudio/Tidyverse, Python, Bash, Git/GitHub, Microsoft Excel, Qualtrics, Google Suite
+* R/RStudio/Tidyverse, Python/Jupyter Notebooks, Bash, Git/GitHub, Microsoft Excel, Qualtrics, Google Suite
 * Data preparation: text, image, quantitative, machine/deep learning, data imputation
 * Data visualization: ggplot2, ggmap, matplotlib, seaborn, plotly, altair, geopandas, gnuplot
 * Machine learning: caret, SuperLearner, H2O, scikit-learn, tensorflow, pytorch, keras, regression (lm, glm, penalized, step, spline, hinge), classification, tree-based methods, confusion matrix derivations, cross-validation
