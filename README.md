@@ -6,10 +6,9 @@ Currently working on:
 
 * Attitudes about envronmental catastrophes in the Mascarenes
 * Machine learning to better understand perioperative depression
-* Postoperative complications in young female diabetics
+* Ecological effects of chlorinated water, disease, and conflict in Northwest Syria
 * Health, agriculture, and armed conflict in Syria and Yemen
-* Faculty and peer instructor development in STEM programs in higher education
-
+* Postoperative complications in young female diabetics
 
 I can help with:
 
