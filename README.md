@@ -9,4 +9,4 @@
 
 <img src="https://github.com/EastBayEv/read/blob/main/fuzz.png" style="width:250px">
 
-🏡🎐🌴:evergreen_tree: :deciduous_tree: 🐾 :mount_fuji: ..... :mountain_railway: ... :baggage_claim: :airplane:
+🏡🎐🌴🐾
